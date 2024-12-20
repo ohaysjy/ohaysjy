@@ -28,11 +28,11 @@ Project 1: <a href="https://github.com/ohaysjy/netflix-recommender-system" targe
 
 Project 2: <a href="https://github.com/ohaysjy/HDB-resale-prices" target="_blank">HDB Resale Price Predictive Model</a><br>
 
-(Stay tuned for more updates on this page!)
+*(Stay tuned for more updates on this page!)*
 
 ### Data Analysis projects:
 Project 1: <a href="https://github.com/ohaysjy/Gender_Pay_Gap" target="_blank">Gender Pay Gap in United Kingdom</a><br>
 
 Project 2: <a href="https://github.com/ohaysjy/Resignation-Analysis" target="_blank">Resignation Analysis</a><br>
 
-(Stay tuned for more updates on this page!)
+*(Stay tuned for more updates on this page!)*
