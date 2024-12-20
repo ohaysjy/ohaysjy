@@ -34,4 +34,6 @@ Project 2: <a href="https://github.com/ohaysjy/HDB-resale-prices" target="_blank
 (Stay tuned for more updates on this page!)
 
 ### Data Analysis projects:
+Project 1: <a href="https://github.com/ohaysjy/Gender_Pay_Gap" target="_blank">Gender Pay Gap in United Kingdom</a><br>
+
 (Stay tuned for more updates on this page!)
