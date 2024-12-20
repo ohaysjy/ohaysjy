@@ -5,5 +5,9 @@ I am a self-motivated and detail-oriented individual who loves transforming comp
 
 Additionally, I am a hybrid athlete who enjoys challenging myself to compete in Hyrox.
 
-### Projects:
-(Stay tuned for updates on this page!)
+### Portfolio: 
+<a href="https://ohaysjy.github.io/sim-jiayi/" target="_blank">View my Portfolio</a><br>
+
+### Projects: 
+(Stay tuned for more updates on this page!)
+
