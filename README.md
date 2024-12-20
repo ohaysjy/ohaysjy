@@ -27,9 +27,9 @@ Technical Skills: C++, Arduino <br>
 <a href="https://ohaysjy.github.io/portfolio/" target="_blank">View my Portfolio</a><br>
 
 ### Data Science projects: 
-<a href="https://github.com/ohaysjy/netflixrec" target="_blank">Project 1:</a> Netflix Recommender System <br>
+Project 1: <a href="https://github.com/ohaysjy/netflixrec" target="_blank">Nerflix Recommender System</a><br>
 
-<a href="https://github.com/ohaysjy/HDBprice" target="_blank">Project 2:</a> HDB Resale Price Predictive Model <br>
+Project 2: <a href="https://github.com/ohaysjy/HDBprice" target="_blank">HDB Resale Price Predictive Model</a><br>
 
 (Stay tuned for more updates on this page!)
 
