@@ -26,6 +26,8 @@ Technical Skills: C++, Arduino <br>
 ### Portfolio: 
 <a href="https://ohaysjy.github.io/sim-jiayi/" target="_blank">View my Portfolio</a><br>
 
-### Projects: 
+### Data Science / Machine Learning projects : 
 (Stay tuned for more updates on this page!)
 
+### Data Analysis projects:
+(Stay tuned for more updates on this page!)
