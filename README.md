@@ -28,6 +28,7 @@ Technical Skills: C++, Arduino <br>
 
 ### Data Science projects: 
 <a href="https://github.com/ohaysjy/netflixrec" target="_blank">Project 1:</a> Netflix Recommender System <br>
+(Stay tuned for more updates on this page!)
 
 ### Data Analysis projects:
 (Stay tuned for more updates on this page!)
