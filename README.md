@@ -23,9 +23,6 @@ Singapore Polytechnic (SP) <br>
 Technical Skills: C++, Arduino <br>
 
 
-### Portfolio: 
-<a href="https://ohaysjy.github.io/portfolio/" target="_blank">View my Portfolio</a><br>
-
 ### Data Science projects: 
 Project 1: <a href="https://github.com/ohaysjy/netflix-recommender-system" target="_blank">Netflix Recommender System</a><br>
 
